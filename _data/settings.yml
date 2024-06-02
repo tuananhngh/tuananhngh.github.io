@@ -1,7 +1,7 @@
 menu:
 #- {name: 'people', url: '/people'}
 - {name: 'home', url: '/index'}
-- {name: 'publications', url: '/publications'}
+#- {name: 'publications', url: '/publications'}
 - {name: 'courses', url: '/courses'}
 #- {name: 'cv', url: '/cv'}
 #- {name: 'contact', url: '/contact'}
@@ -19,7 +19,7 @@ menu:
 social:
 - {icon: 'github', link: 'https://github.com/tuananhngh'}
 #- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'googlescholar', link: 'https://scholar.google.com/citations?user=Qa3kcOIAAAAJ&hl=en'}
+- {icon: 'google', link: 'https://scholar.google.com/citations?user=Qa3kcOIAAAAJ&hl=en'}
 - {icon: 'linkedin', link: 'https://linkedin.com/in/tuananh-nguyen'}
 
 # contacts:
