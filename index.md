@@ -8,4 +8,9 @@ Welcome to my personal page :)
 
 Currently, my research interests lie in optimization, machine learning and distributed system. From time to time, I also delve into the topics of bandit and reinforcement learning, and of course, I can't not escape from the recent trend in LLM, especially building RAG system for domain-specific applications. 
 
-Feel to contact me via : tuan-anh.nguyen@inria.fr 
+<!-- Feel to contact me via : tuan-anh.nguyen@inria.fr  -->
+
+**Office Localtion**
+IMAG Building, Office 468
+150 Place du Torrent
+38400 Saint-Martin-d'Hères, France.
