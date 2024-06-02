@@ -3,7 +3,7 @@ menu:
 - {name: 'home', url: '/index'}
 - {name: 'publications', url: '/publications'}
 - {name: 'courses', url: '/courses'}
-- {name: 'cv', url: '/cv'}
+#- {name: 'cv', url: '/cv'}
 #- {name: 'contact', url: '/contact'}
 
 # people:
@@ -19,7 +19,7 @@ menu:
 social:
 - {icon: 'github', link: 'https://github.com/tuananhngh'}
 #- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-#- {icon: 'instagram', link: 'https://instagram.com/paululele'}
+- {icon: 'googlescholar', link: 'https://scholar.google.com/citations?user=Qa3kcOIAAAAJ&hl=en'}
 - {icon: 'linkedin', link: 'https://linkedin.com/in/tuananh-nguyen'}
 
 # contacts:
