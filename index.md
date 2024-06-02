@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Home"
+title: "Tuan-Anh Nguyen's Homepage"
 ---
 
 Welcome to my personal page :)
