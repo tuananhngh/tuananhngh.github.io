@@ -10,7 +10,7 @@ Currently, my research interests lie in optimization, machine learning and distr
 
 <!-- Feel to contact me via : tuan-anh.nguyen@inria.fr  -->
 
-**Office Location** :<br>
+<!-- **Office Location** :<br>
 IMAG Building, Office 468<br>
 150 Place du Torrent<br>
-38400 Saint-Martin-d'Hères, France.
+38400 Saint-Martin-d'Hères, France. -->
