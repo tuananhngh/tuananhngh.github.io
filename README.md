@@ -34,7 +34,7 @@ theme: academic-jekyll-theme
 
 And then execute:
 
-    $ bundle
+    $ bundle exec jekyll serve
 
 Or install it yourself as:
 

@@ -1,10 +1,44 @@
 featured:
-- {name: 'Testing General Relativity with Present and Future Astrophysical Observations. Emanuele Berti (Mississippi U. and Lisbon, CENTRA), Enrico Barausse (Paris, Inst. Astrophys. and Paris U., VI-VII), Vitor Cardoso (Lisbon, IST and Perimeter Inst. Theor. Phys. and Lisbon, CENTRA), Leonardo Gualtieri (Rome U. and INFN, Rome), Paolo Pani (Rome U. and INFN, Rome and Lisbon, IST and Lisbon, CENTRA) et al.', url: '/publications/1501.07274.pdf'}
-- {name: 'Shock interactions, turbulence and the origin of the stellar mass spectrum. Ralph E. Pudritz and N. K.-R. Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/PhilTransRSoc_2013.pdf'}
-- {name: 'Low shear diffusion central schemes for particle methods. Jonathan Panuelos, James Wadsley, Nicholas Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/jcp_v414.pdf'}
+  - authors: "Tuan-Anh Nguyen, Nguyen Kim Thang, Denis Trystram"
+    title: "Handling Delayed Feedback in Distributed Online Optimization : A Projection-free approach"
+    year: "2024"
+    journal: "In Proceeding of The 31st European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2024)"
+    url: "https://arxiv.org/abs/2402.02114"
+  - authors: "Akash Dhasade, Anne-Marie Kermarrec, Tuan-Anh Nguyen, Rafael Pires, Martijn de Vos"
+    title: "Harnessing Increased Client Participation with Cohort-Parallel Federated Learning"
+    year: "2023"
+    journal: "In Proceeding of The 31st European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2024)"
+    url: "https://arxiv.org/abs/2405.15644"
+  - authors: "Tuan-Anh Nguyen, Nguyen Kim Thang, Denis Trystram"
+    title: "One Gradient Frank-Wolfe for Decentralized Online Convex and Submodular Optimization"
+    year: "2022"
+    journal: "In Proceeding of The 14th Asian Conference on Machine Learning."
+    url: "https://proceedings.mlr.press/v189/nguyen23a.html"
+  - authors: "Angan Mitra, Nguyen Kim Thang, Tuan-Anh Nguyen, Denis Trystram, Paul Youssef"
+    title: "Online Decentralized Frank-Wolfe : From Theoretical Bound to Applications in Smart-building"
+    year: "2022"
+    journal: "Global IoT Summit."
+    url: "https://link.springer.com/chapter/10.1007/978-3-031-20936-9_4#citeas"
 
 index:
-- {name: 'Tuan-Anh Nguyen, Nguyen Kim Thang, Denis Trystram. Handling Delayed Feedback in Distributed Online Optimization, A Projection-free approach. Arxiv Preprint. To be appeared at ECML2024', url: 'https://arxiv.org/abs/2402.02114'}
-- {name: 'Shock interactions, turbulence and the origin of the stellar mass spectrum. Ralph E. Pudritz and N. K.-R. Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/PhilTransRSoc_2013.pdf'}
-- {name: 'Low shear diffusion central schemes for particle methods. Jonathan Panuelos, James Wadsley, Nicholas Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/jcp_v414.pdf'}
-- {name: 'Numerical solutions of thin film equations for polymer flows. Thomas. Salez, Joshua D. McGraw, Sara Cormier, Oliver Bäumchen, Kari Dalnoki-Veress, and Elie Raphaël', url: 'https://static1.squarespace.com/static/5684891d7086d74497aeb71f/t/56ec510d2fe1319543ab6d6f/1458327821946/10.1140-epje-i2012-12114-x.pdf'}
+  - authors: "Tuan-Anh Nguyen, Nguyen Kim Thang, Denis Trystram"
+    title: "Handling Delayed Feedback in Distributed Online Optimization : A Projection-free approach"
+    year: "2024"
+    journal: "In Proceeding of The 31st European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2024)"
+    url: "https://arxiv.org/abs/2402.02114"
+  - authors: "Akash Dhasade, Anne-Marie Kermarrec, Tuan-Anh Nguyen, Rafael Pires, Martijn de Vos"
+    title: "Harnessing Increased Client Participation with Cohort-Parallel Federated Learning"
+    year: "2023"
+    journal: "In Proceeding of The 31st European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2024)"
+    url: "https://arxiv.org/abs/2405.15644"
+  - authors: "Tuan-Anh Nguyen, Nguyen Kim Thang, Denis Trystram"
+    title: "One Gradient Frank-Wolfe for Decentralized Online Convex and Submodular Optimization"
+    year: "2022"
+    journal: "In Proceeding of The 14th Asian Conference on Machine Learning."
+    url: "https://proceedings.mlr.press/v189/nguyen23a.html"
+  - authors: "Angan Mitra, Nguyen Kim Thang, Tuan-Anh Nguyen, Denis Trystram, Paul Youssef"
+    title: "Online Decentralized Frank-Wolfe : From Theoretical Bound to Applications in Smart-building"
+    year: "2022"
+    journal: "Global IoT Summit."
+    url: "https://link.springer.com/chapter/10.1007/978-3-031-20936-9_4#citeas"
+

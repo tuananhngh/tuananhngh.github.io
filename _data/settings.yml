@@ -1,10 +1,11 @@
 menu:
 #- {name: 'people', url: '/people'}
 - {name: 'home', url: '/index'}
-- {name: 'publications', url: '/publications'}
-- {name: 'courses', url: '/courses'}
-#- {name: 'cv', url: '/cv'}
-#- {name: 'contact', url: '/contact'}
+# - {name: 'posts', url: '/posts'}
+# - {name: 'publications', url: '/publications'}
+# - {name: 'courses', url: '/courses'}
+# - {name: 'cv', url: '/cv'}
+# - {name: 'contact', url: '/contact'}
 
 # people:
 # - {name: 'Primary Investigator', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
@@ -22,5 +23,7 @@ social:
 - {icon: 'google', link: 'https://scholar.google.com/citations?user=Qa3kcOIAAAAJ&hl=en'}
 - {icon: 'linkedin', link: 'https://linkedin.com/in/tuananh-nguyen'}
 
+contacts:
+- {name: 'Tuan-Anh Nguyen', title: 'Applied Scientist', institution: 'Tiime Software', email: 'tuan-anh.nguyen@tiime.com', image: 'assets/img/contact.jpg'}
 # contacts:
-# - {name: 'Dr. Academia', title: 'Professor', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/contact.jpg'}
+# - {name: 'Tuan-Anh Nguyen', title: 'Applied Scientist', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/contact.jpg'}
