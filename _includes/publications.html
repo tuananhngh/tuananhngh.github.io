@@ -2,15 +2,17 @@
   <div>
     <!-- <h3 class="fw-bold border-bottom pb-3 mb-5"></h3> -->
     {% if page.title == "Home" %}
-      {% for item in site.data.publications.featured %}
+      {% assign pubs = site.data.publications.featured | sort: "year" | reverse %}
+      {% for item in pubs %}
         <p>
-            {{ item.authors }}. <a href="{{ item.url }}">"{{ item.title }}."</a> {{ item.journal }}, {{ item.year }}.
+          {{ item.authors }}. <a href="{{ item.url }}">"{{ item.title }}."</a> {{ item.journal }}, {{ item.year }}.
         </p>
       {% endfor %}
     {% else %}
-      {% for item in site.data.publications.index %}
+      {% assign pubs = site.data.publications.index | sort: "year" | reverse %}
+      {% for item in pubs %}
         <p>
-            {{ item.authors }}. <a href="{{ item.url }}">"{{ item.title }}."</a> {{ item.journal }}, {{ item.year }}.
+          {{ item.authors }}. <a href="{{ item.url }}">"{{ item.title }}."</a> {{ item.journal }}, {{ item.year }}.
         </p>
       {% endfor %}
     {% endif %}
