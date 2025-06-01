@@ -36,7 +36,7 @@ layout: default
     <ul>
     {% for item in site.data.news %}
       <li>
-        <i>{{ item.date }}</i> - 
+        <b>{{ item.date }}</b> - 
         {% if item.url %}
           <a href="{{ item.url }}">{{ item.text }}</a>
         {% else %}
