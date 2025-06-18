@@ -1,3 +1,6 @@
+- date: "March 2025"
+  text: "Our paper \"Harnessing Increased Client Participation with Cohort-Parallel Federated Learning\" is accepted to the 5th Workshop on Machine Learning and Systems (EuroMLSys 2025). This work is done during my internship at EPFL where we explore knowledge distillation and one-shot learning to improve the client participation in large-scale federated learning."
+  url: "https://arxiv.org/abs/2405.15644"
 - date: "Feb 2025"
   text: "My thesis manuscript is officially online, you can check it out."
   url: "https://theses.hal.science/tel-04959071v1/document"
