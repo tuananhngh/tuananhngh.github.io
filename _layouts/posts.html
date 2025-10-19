@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<div class="row g-5 mb-5">
+  <div class="col-md-12">
+    <h3 class="fw-bold border-bottom pb-3 mb-5">{{ page.title }}</h3>
+    {% if site.posts.size > 0 %}
+      <ul class="list-unstyled">
+        {% for post in site.posts %}
+        <li class="mb-3">
+          <p class="mb-1">
+            <span class="text-muted">{{ post.date | date: "%B %-d, %Y" }}</span> -
+            <a href="{{ site.github.url }}{{ post.url }}" style="text-decoration: none;">{{ post.title }}</a>
+          </p>
+        </li>
+        {% endfor %}
+      </ul>
+    {% else %}
+      <p>No posts yet.</p>
+    {% endif %}
+  </div>
+</div>

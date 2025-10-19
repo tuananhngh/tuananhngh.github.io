@@ -24,6 +24,6 @@ social:
 - {icon: 'linkedin', link: 'https://linkedin.com/in/tuananh-nguyen'}
 
 contacts:
-- {name: 'Tuan-Anh Nguyen', title: 'Applied Scientist', institution: 'Tiime Software', email: 'tuan-anh.nguyen@tiime.com', image: 'assets/img/contact.jpg'}
+- {name: 'Tuan-Anh Nguyen', title: 'Applied Scientist', institution: 'Tiime Software', email: 'anh.nguyen410@gmail.com', image: 'assets/img/contact.jpg'}
 # contacts:
 # - {name: 'Tuan-Anh Nguyen', title: 'Applied Scientist', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/contact.jpg'}

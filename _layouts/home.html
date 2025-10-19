@@ -36,9 +36,9 @@ layout: default
     <ul>
     {% for item in site.data.news %}
       <li>
-        <b>{{ item.date }}</b> - 
+        <b>{{ item.date }}</b> -
         {% if item.url %}
-          <a href="{{ item.url }}">{{ item.text }}</a>
+          <a href="{{ item.url }}" style="text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">{{ item.text }}</a>
         {% else %}
           {{ item.text }}
         {% endif %}
