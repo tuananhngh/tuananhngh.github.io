@@ -37,20 +37,12 @@ layout: default
     {% for item in site.data.news %}
       <li>
         <b>{{ item.date }}</b> -
+        {{ item.text }}
         {% if item.url %}
-          <a href="{{ item.url }}" style="text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">{{ item.text }}</a>
-        {% else %}
-          {{ item.text }}
+          <a href="{{ item.url }}" target="_blank" rel="noopener" title="Open link" aria-label="Open link"><i class="fas fa-external-link-alt fa-sm"></i></a>
         {% endif %}
       </li>
     {% endfor %}
     </ul>
-  </div>
-</div>
-
-<div class="row g-5 mb-5">
-  <div class="col-md-12">
-    <h3 class="fw-bold border-bottom pb-3 mb-5">publications</h3>
-    {% include publications.html %}
   </div>
 </div>

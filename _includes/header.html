@@ -6,6 +6,11 @@
     <a href="{{ site.github.url }}/" class="d-flex align-items-center text-decoration-none">
       <span>{{ site.description }}</span>
     </a>
+    <div class="mt-2 social-media-icons">
+      {% for item in site.data.settings.social %}
+        <a href="{{ item.link }}" class="me-3 fs-5 text-decoration-none" target="_blank" rel="noopener" aria-label="{{ item.icon }}"><i class="fab fa-{{ item.icon }}"></i></a>
+      {% endfor %}
+    </div>
   </div>
   <nav class="d-inline-flex mt-2 mt-md-0 ms-md-auto">
     {% for item in site.data.settings.menu %}

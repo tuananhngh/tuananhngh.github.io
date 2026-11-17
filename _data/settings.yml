@@ -1,6 +1,7 @@
 menu:
 #- {name: 'people', url: '/people'}
 - {name: 'home', url: '/index'}
+- {name: 'publications', url: '/publications'}
 - {name: 'thesis', url: 'https://theses.hal.science/tel-04959071v1/document'}
 - {name: 'picklestats', url: '/dupr-analysis/'}
 # - {name: 'posts', url: '/posts'}
