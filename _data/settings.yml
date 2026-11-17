@@ -3,7 +3,7 @@ menu:
 - {name: 'home', url: '/index'}
 - {name: 'publications', url: '/publications'}
 - {name: 'thesis', url: 'https://theses.hal.science/tel-04959071v1/document'}
-- {name: 'picklestats', url: '/dupr-analysis/'}
+- {name: 'picklestats', url: '/picklestats/'}
 # - {name: 'posts', url: '/posts'}
 # - {name: 'publications', url: '/publications'}
 # - {name: 'courses', url: '/courses'}
